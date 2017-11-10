@@ -23,7 +23,7 @@ manual_scaling:
 
 # [START env_variables]
 env_variables:
-  GCLOUD_PROJECT: gcloudpiezo
+  
   PUBSUB_TOPIC: piezopub
   PUBSUB_SUBSCRIPTION_NAME: piezopull
   # This token is used to verify that requests originate from your
